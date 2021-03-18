@@ -270,12 +270,13 @@ margin-top: 5%;
 
 /*-------------------Footer-------------------*/
 #footer{
-    background-color: rgb(77, 71, 104);
-    padding-left: 50px;
-    padding-top: 30px;
+  background-color: rgb(77, 71, 104);
+  padding-left: 50px;
+  padding-top: 30px;
 }
+
 #footer p{
-  font-size: 200%;
+  font-size: 150%;
   font-weight: 600;
 }
 #footer ul{
@@ -286,8 +287,13 @@ margin-top: 5%;
 }
 }
 .footer-img{
-  width: 10px;
-  height: 10px;
+  width: 10%;
+  height: 10%;
+}
+.footer-logo
+{
+  width: 50%;
+  height: 60%;
 }
 
 /*----------outreach------*/
